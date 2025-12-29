@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=780&lines=⌁+PATRICK-AYO+%7C+WELCOME+TO+MY+PROFILE;DEVELOPER+%2B+CREATOR+%2B+BUILDER" alt="typing" />
+  <a href="https://github.com/Patrick-ayo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Patrick-Ayo;Developer+%7C+Creator+%7C+Builder;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 ---
 
-## 👋 quick intro (not for the faint-hearted)
+## 👋 quick intro 
 I build desktop systems that **watch, analyze, and respond** — security, AI, and messy real-life data flows.  
 I also play way too many games and will bench-press a lag spike if needed.
 
@@ -20,7 +22,7 @@ I also play way too many games and will bench-press a lag spike if needed.
 
 ---
 
-## 🔭 projects (tl;dr)
+## 🔭 projects 
 - **security-system** — multi-person detection, audio analysis, realtime logging (YOLO + speech)  
 - **Gods-Eye** — hazard detection in an Electron shell + Python inference server  
 - **Mumbai-Hacks** — backend + fact-checking routes (API-first)  
@@ -38,7 +40,7 @@ Want a demo? Open an issue or ping on Discord. I’ll actually respond.
 - when code compiles on the first try: *you have been lied to by life*  
 - Me: *I’ll sleep early tonight* — Also me at 3AM: “what if I refactor the logging”
 
-Meme GIFs (safe, small):
+Meme GIFs :
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="320" alt="gamer hype" />
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320" alt="gen-z reaction" />
@@ -46,7 +48,7 @@ Meme GIFs (safe, small):
 
 ---
 
-## 😺 cat widgets & wholesome chaos
+## 😺 The galaxy Anhilato is here-->
 Cat helps debug. Science proven (by me).
 
 <p align="center">
