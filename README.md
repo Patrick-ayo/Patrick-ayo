@@ -1,13 +1,5 @@
-<!--
-  ███████████████████████████████████████████████████████████████
-  Drop this into the repo named exactly: `YashDhume` (your profile repo)
-  Replace username in stats if needed.
-  Author: Yash Dhume README — hacker + gamer + gen-z + cats
-  ███████████████████████████████████████████████████████████████
--->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=780&lines=⌁+YASH+DHUME+%7C+SYSTEM+OVERRIDE+ENGAGED;HACKS+%2B+AI+%2B+DESKTOP+APPS;GAMER+MODE+%E2%9A%9C+CAT+MODE+%F0%9F%90%BC" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=780&lines=⌁+PATRICK-AYO+%7C+WELCOME+TO+MY+PROFILE;DEVELOPER+%2B+CREATOR+%2B+BUILDER" alt="typing" />
 </p>
 
 <p align="center">
@@ -70,20 +62,18 @@ Cat counters & stickers:
 
 ---
 
-## 🧰 tech stack (no flex just receipts)
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,ts,dart,cpp,c" alt="languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,electron,html,css,tailwind" alt="frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,bash" alt="tools" />
 </p>
 
 ---
@@ -104,8 +94,18 @@ Cat counters & stickers:
 
 ---
 
-## 🐍 Contribution Snake
+## � Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Patrick-ayo/Patrick-ayo/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Patrick-ayo/Patrick-ayo/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patrick-ayo/Patrick-ayo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patrick-ayo/Patrick-ayo/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Patrick-ayo/Patrick-ayo/output/github-contribution-grid-snake.svg" />
+</picture>
