@@ -81,23 +81,21 @@ Cat counters & stickers:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-ayo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/Patrick-ayo">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Patrick-ayo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-ayo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Patrick-ayo">
+    <img src="https://streak-stats.demolab.com/?user=Patrick-ayo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-ayo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## � Metrics
-
-<p align="center">
-  <img src="https://github.com/Patrick-ayo/Patrick-ayo/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+  <a href="https://github.com/Patrick-ayo">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Patrick-ayo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
