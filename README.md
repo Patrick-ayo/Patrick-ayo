@@ -76,7 +76,7 @@ C/C++ ████
 ## 🧰 tech stack (no flex just receipts)
 
 
-![Metrics](https://github.com/Patrick-ayo/patrick-ayo/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Patrick-ayo/Patrick-ayo/blob/main/github-metrics.svg)
 
 
 ![snake](https://raw.githubusercontent.com/Patrick-ayo/Patrick-ayo/output/github-contribution-grid-snake.svg)
