@@ -109,7 +109,14 @@ I build systems that **watch, analyze, and respond** — security, AI, and real-
   <img src="./assets/end-note.jpg" width="100%" alt="One Piece" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/THANKS_FOR_WATCHING-00FFD1?style=for-the-badge&labelColor=1a1a2e" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right"><img src="./assets/cat.gif" width="100" alt="cat left" /></td>
+    <td align="center">
+      <h1><b>THANKS FOR WATCHING ~ MEOW</b></h1>
+      <p><b>PURRFECT VIBES ONLY ~ STAY CURIOUS, STAY PAWSOME</b></p>
+    </td>
+    <td align="left"><img src="./assets/cat.gif" width="100" alt="cat right" /></td>
+  </tr>
+</table>
 
