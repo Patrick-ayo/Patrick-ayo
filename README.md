@@ -113,7 +113,7 @@ I build systems that **watch, analyze, and respond** — security, AI, and real-
   <tr>
     <td align="right"><img src="./assets/cat.gif" width="100" alt="cat left" /></td>
     <td align="center">
-      <h1><b>THANKS FOR WATCHING ~ MEOW</b></h1>
+      <h1><b>THANKS FOR VISITING ~ MEOW</b></h1>
       <p><b>PURRFECT VIBES ONLY ~ STAY CURIOUS, STAY PAWSOME</b></p>
     </td>
     <td align="left"><img src="./assets/cat.gif" width="100" alt="cat right" /></td>
