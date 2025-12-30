@@ -84,5 +84,15 @@ I build systems that **watch, analyze, and respond** — security, AI, and real-
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-00FFD1?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/SHrKqcpmNorTO/giphy.gif" width="300" alt="Luffy" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=40&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9A%93+THANKS+FOR+VISITING!+%E2%9A%93;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+SET+SAIL+WITH+ME!+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;THE+KING+OF+PIRATES+AWAITS!" alt="One Piece Farewell" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚓-NAKAMA-D4AF37?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏴‍☠️-ONE_PIECE-DC143C?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/👒-STRAW_HAT-FFD700?style=for-the-badge&labelColor=1a1a2e" />
 </p>
