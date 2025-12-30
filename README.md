@@ -54,7 +54,7 @@ I build systems that **watch, analyze, and respond** — security, AI, and real-
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Patrick-ayo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-ayo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
