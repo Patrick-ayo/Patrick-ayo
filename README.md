@@ -84,7 +84,7 @@ I build systems that **watch, analyze, and respond** — security, AI, and real-
 ---
 
 <p align="center">
-  <img src="./assets/end-note.jpg" width="400" alt="One Piece" />
+  <img src="./assets/end-note.jpg" width="100%" alt="One Piece" />
 </p>
 
 <p align="center">
