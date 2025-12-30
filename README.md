@@ -90,7 +90,7 @@ Cat counters & stickers:
 
 <p align="center">
   <a href="https://github.com/Patrick-ayo">
-    <img src="https://streak-stats.demolab.com/?user=Patrick-ayo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Patrick-ayo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
