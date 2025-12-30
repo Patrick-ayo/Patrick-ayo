@@ -9,6 +9,10 @@
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=Patrick-ayo&style=for-the-badge&color=ff69b4" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+</p>
+
 ---
 
 ## 👋 About Me
