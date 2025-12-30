@@ -110,16 +110,6 @@ I build systems that **watch, analyze, and respond** — security, AI, and real-
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=42&duration=2800&pause=900&color=F7C948&center=true&vCenter=true&multiline=true&width=720&height=120&lines=%E2%9A%93+THANKS+FOR+VISITING!+%E2%9A%93;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+SET+SAIL+WITH+ME!+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;THE+KING+OF+PIRATES+AWAITS!" alt="One Piece Farewell Typing" />
-</p>
-
-<p align="center">
-  ☠️ <b>STRAP ON YOUR STRAW HAT — THE GRAND LINE AHEAD</b> ☠️
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚓-NAKAMA-D4AF37?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🏴‍☠️-ONE_PIECE-DC143C?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/👒-STRAW_HAT-FFD700?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/THANKS_FOR_WATCHING-00FFD1?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
