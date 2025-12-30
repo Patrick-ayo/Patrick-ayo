@@ -16,7 +16,7 @@
 I build systems that **watch, analyze, and respond** — security, AI, and real-world data flows.
 
 - 📍 Based in Mumbai, India  
-- 🛠️ Focus: Electron apps, Python backends, YOLO + speech recognition, Flutter  
+- 🛠️ Focus: Electron apps, Node.js backends, YOLO + speech recognition, Flutter  
 - 🎯 Goal: Build things that notice when reality lies
 
 ---
@@ -54,9 +54,7 @@ I build systems that **watch, analyze, and respond** — security, AI, and real-
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Patrick-ayo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Patrick-ayo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
