@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/coding.gif" width="400" alt="coding gif" />
+  <img src="./assets/coding.gif" width="100%" alt="coding gif" />
 </p>
 
 ---
