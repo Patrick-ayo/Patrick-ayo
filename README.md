@@ -71,15 +71,37 @@ I build systems that **watch, analyze, and respond** — security, AI, and real-
 
 ---
 
-## 🔭 Projects
+## 🏴‍☠️ Projects — My Treasure Map
 
-| Project | Description |
-|---------|-------------|
-| **security-system** | Multi-person detection, audio analysis, realtime logging (YOLO + speech) |
-| **Gods-Eye** | Hazard detection in Electron shell + Python inference server |
-| **Mumbai-Hacks** | Backend + fact-checking routes (API-first) |
-| **MISINFORMATION-GAME** | RPG that punishes bad info choices |
-| **MoDoNER** | Flutter desktop: NER workflows (WIP) |
+<p align="center">
+  <a href="https://github.com/Patrick-ayo/security-system">
+    <img src="https://img.shields.io/badge/🔐_security--system-Multi--person_detection,_audio_analysis,_realtime_logging-1a1b27?style=for-the-badge&labelColor=7aa2f7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Patrick-ayo/Gods-Eye">
+    <img src="https://img.shields.io/badge/👁️_Gods--Eye-Hazard_detection_in_Electron_+_Python_inference-1a1b27?style=for-the-badge&labelColor=bb9af7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Patrick-ayo/Mumbai-Hacks">
+    <img src="https://img.shields.io/badge/🌐_Mumbai--Hacks-Backend_+_fact--checking_routes_(API--first)-1a1b27?style=for-the-badge&labelColor=7dcfff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Patrick-ayo/MISINFORMATION-GAME">
+    <img src="https://img.shields.io/badge/🎮_MISINFORMATION--GAME-RPG_that_punishes_bad_info_choices-1a1b27?style=for-the-badge&labelColor=f7768e" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Patrick-ayo/MoDoNER">
+    <img src="https://img.shields.io/badge/📱_MoDoNER-Flutter_desktop:_NER_workflows_(WIP)-1a1b27?style=for-the-badge&labelColor=9ece6a" />
+  </a>
+</p>
 
 ---
 
